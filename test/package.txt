@@ -1,0 +1,3 @@
+com.kingroot.master
+com.cleanmaster.mguard_cn
+com.ijinshan.browser_fast
